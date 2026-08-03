@@ -1,0 +1,282 @@
+[
+  {
+    "date": "2025-08-19",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": 2.78,
+    "volume": 14384719,
+    "reason": "price change z-score 2.21"
+  },
+  {
+    "date": "2025-10-20",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": 3.53,
+    "volume": 24721978,
+    "reason": "price change z-score 2.80"
+  },
+  {
+    "date": "2026-01-06",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -4.47,
+    "volume": 27417125,
+    "reason": "price change z-score -3.51; volume z-score 2.05"
+  },
+  {
+    "date": "2026-01-19",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -3.04,
+    "volume": 20392765,
+    "reason": "price change z-score -2.39"
+  },
+  {
+    "date": "2026-02-03",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": 3.36,
+    "volume": 25456171,
+    "reason": "price change z-score 2.66"
+  },
+  {
+    "date": "2026-03-02",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -2.58,
+    "volume": 23728722,
+    "reason": "price change z-score -2.02"
+  },
+  {
+    "date": "2026-03-04",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -0.96,
+    "volume": 32495007,
+    "reason": "volume z-score 2.80"
+  },
+  {
+    "date": "2026-03-05",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": 3.3,
+    "volume": 25957532,
+    "reason": "price change z-score 2.62"
+  },
+  {
+    "date": "2026-03-27",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -4.6,
+    "volume": 23266517,
+    "reason": "price change z-score -3.62"
+  },
+  {
+    "date": "2026-04-06",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -3.39,
+    "volume": 29274881,
+    "reason": "price change z-score -2.66; volume z-score 2.32"
+  },
+  {
+    "date": "2026-04-07",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -0.01,
+    "volume": 28388922,
+    "reason": "volume z-score 2.20"
+  },
+  {
+    "date": "2026-04-08",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": 3.31,
+    "volume": 21817543,
+    "reason": "price change z-score 2.63"
+  },
+  {
+    "date": "2026-04-13",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -2.6,
+    "volume": 28753269,
+    "reason": "price change z-score -2.04; volume z-score 2.25"
+  },
+  {
+    "date": "2026-04-16",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -0.06,
+    "volume": 30211012,
+    "reason": "volume z-score 2.46"
+  },
+  {
+    "date": "2026-04-21",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -0.73,
+    "volume": 27293629,
+    "reason": "volume z-score 2.04"
+  },
+  {
+    "date": "2026-04-27",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": 2.86,
+    "volume": 24673098,
+    "reason": "price change z-score 2.27"
+  },
+  {
+    "date": "2026-04-28",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": 1.69,
+    "volume": 41027699,
+    "reason": "volume z-score 4.04"
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": 2.63,
+    "volume": 30542143,
+    "reason": "price change z-score 2.09; volume z-score 2.51"
+  },
+  {
+    "date": "2026-04-30",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": 0.38,
+    "volume": 30957881,
+    "reason": "volume z-score 2.57"
+  },
+  {
+    "date": "2026-05-11",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -3.27,
+    "volume": 15261787,
+    "reason": "price change z-score -2.57"
+  },
+  {
+    "date": "2026-05-20",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": 2.8,
+    "volume": 13248515,
+    "reason": "price change z-score 2.22"
+  },
+  {
+    "date": "2026-05-29",
+    "ticker": "RELIANCE.NS",
+    "price_change_pct": -2.17,
+    "volume": 42634247,
+    "reason": "volume z-score 4.28"
+  },
+  {
+    "date": "2025-10-10",
+    "ticker": "TCS.NS",
+    "price_change_pct": -1.09,
+    "volume": 8817365,
+    "reason": "volume z-score 2.17"
+  },
+  {
+    "date": "2026-02-04",
+    "ticker": "TCS.NS",
+    "price_change_pct": -7.01,
+    "volume": 10852595,
+    "reason": "price change z-score -4.03; volume z-score 3.03"
+  },
+  {
+    "date": "2026-02-12",
+    "ticker": "TCS.NS",
+    "price_change_pct": -5.49,
+    "volume": 10612156,
+    "reason": "price change z-score -3.15; volume z-score 2.93"
+  },
+  {
+    "date": "2026-02-13",
+    "ticker": "TCS.NS",
+    "price_change_pct": -2.11,
+    "volume": 11168735,
+    "reason": "volume z-score 3.17"
+  },
+  {
+    "date": "2026-02-24",
+    "ticker": "TCS.NS",
+    "price_change_pct": -3.83,
+    "volume": 7798833,
+    "reason": "price change z-score -2.19"
+  },
+  {
+    "date": "2026-04-10",
+    "ticker": "TCS.NS",
+    "price_change_pct": -2.5,
+    "volume": 10480239,
+    "reason": "volume z-score 2.88"
+  },
+  {
+    "date": "2026-04-24",
+    "ticker": "TCS.NS",
+    "price_change_pct": -4.95,
+    "volume": 5107719,
+    "reason": "price change z-score -2.84"
+  },
+  {
+    "date": "2026-05-12",
+    "ticker": "TCS.NS",
+    "price_change_pct": -3.87,
+    "volume": 6347884,
+    "reason": "price change z-score -2.21"
+  },
+  {
+    "date": "2026-05-19",
+    "ticker": "TCS.NS",
+    "price_change_pct": 1.92,
+    "volume": 10394707,
+    "reason": "volume z-score 2.84"
+  },
+  {
+    "date": "2026-05-29",
+    "ticker": "TCS.NS",
+    "price_change_pct": -1.11,
+    "volume": 16331582,
+    "reason": "volume z-score 5.37"
+  },
+  {
+    "date": "2026-06-02",
+    "ticker": "TCS.NS",
+    "price_change_pct": 6.51,
+    "volume": 11306127,
+    "reason": "price change z-score 3.80; volume z-score 3.23"
+  },
+  {
+    "date": "2026-06-03",
+    "ticker": "TCS.NS",
+    "price_change_pct": -8.39,
+    "volume": 15660062,
+    "reason": "price change z-score -4.83; volume z-score 5.08"
+  },
+  {
+    "date": "2026-06-19",
+    "ticker": "TCS.NS",
+    "price_change_pct": -3.55,
+    "volume": 13286502,
+    "reason": "price change z-score -2.03; volume z-score 4.07"
+  },
+  {
+    "date": "2026-07-02",
+    "ticker": "TCS.NS",
+    "price_change_pct": 4.31,
+    "volume": 6040621,
+    "reason": "price change z-score 2.53"
+  },
+  {
+    "date": "2026-07-13",
+    "ticker": "TCS.NS",
+    "price_change_pct": 5.44,
+    "volume": 12382622,
+    "reason": "price change z-score 3.18; volume z-score 3.69"
+  },
+  {
+    "date": "2026-07-14",
+    "ticker": "TCS.NS",
+    "price_change_pct": 0.88,
+    "volume": 9546290,
+    "reason": "volume z-score 2.48"
+  },
+  {
+    "date": "2026-07-28",
+    "ticker": "TCS.NS",
+    "price_change_pct": 4.46,
+    "volume": 8248513,
+    "reason": "price change z-score 2.62"
+  },
+  {
+    "date": "2026-08-03",
+    "ticker": "TCS.NS",
+    "price_change_pct": 4.57,
+    "volume": 3033504,
+    "reason": "price change z-score 2.68"
+  }
+]
